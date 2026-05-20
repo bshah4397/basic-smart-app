@@ -1,4 +1,4 @@
-export const ATHENA_CLIENT_ID = "<REPLACE_WITH_ATHENA_CLIENT_ID>";
+export const ATHENA_CLIENT_ID = "0oa12obn3qqChlD9X298";
 export const SMART_SCOPES = "launch patient/Patient.r user/Patient.r openid fhirUser";
 export const ATHENA_FHIR_BASE_URL = "https://api.preview.platform.athenahealth.com/fhir/r4";
 export const ATHENA_AUTHORIZATION_URL = "https://api.preview.platform.athenahealth.com/oauth2/v1/authorize";
